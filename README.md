@@ -7,8 +7,8 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/sghoweri/pattern-lab-twig-test.git
-cd pattern-lab-twig-test
+git clone https://github.com/sghoweri/pl-twig.git
+cd pl-twig
 npm install
 npm start
 ```
