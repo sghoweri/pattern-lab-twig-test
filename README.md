@@ -10,3 +10,7 @@ cd pattern-lab-twig-test
 npm install
 npm start
 ```
+
+## Recommended System Requirements
+- Node v12+ (`nvm use 12`)
+- PHP 7.3+ (`brew install php`)
