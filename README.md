@@ -1,6 +1,8 @@
 # Pattern Lab Node + Twig (PHP) Renderer
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/856c11fb-ce01-43b9-8d4b-5686dfb77ec4/deploy-status)](https://app.netlify.com/sites/optimistic-ritchie-a41801/deploys)
+[Live Demo on Netlify](https://pl-twig.netlify.app/?p=all)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/856c11fb-ce01-43b9-8d4b-5686dfb77ec4/deploy-status)](https://app.netlify.com/sites/pl-twig/deploys)
 
 ## Quick Start
 
